@@ -31,7 +31,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_NAME := lineage_twolip
 PRODUCT_MODEL := Redmi Note 6 Pro
 
-TARGET_ENABLE_BLUR := false
+TARGET_ENABLE_BLUR := true
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
